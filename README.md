@@ -2,7 +2,7 @@ BEM VINDO AO MEU PERFIL!!!!
 
 Meu nome é Carolina Neves 
 
-- Estou estudando na Alura
+- Estou estudando no E.E. Professor Alberto Conte no segundo ano do ensino médio
 - Estou me desenvolvendo na linguagem JavaScript
 - Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
 
